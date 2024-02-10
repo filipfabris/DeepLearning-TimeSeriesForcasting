@@ -1,5 +1,9 @@
 # DeepLearningHomework2
 
+* Course: `ARTIFICIAL NEURAL NETWORKS AND DEEP LEARNING`
+* Professor: `Prof. Dr. Matteucci Matteo`, `Prof. Dr. Giacomo Boracchi`
+* University: `Politecnico di Milano`
+
 ## Project Structure:
 ### 1. Cleaning Data
 - Using FastDump clustering, we removed outliers and duplicate images.
